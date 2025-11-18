@@ -1,3 +1,6 @@
+![Banner](https://i.ibb.co/fzNPvV1F/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
+
+
 # 💫 Hi 👋, I'm Mahmudul Karim Prem
 **🚀 MERN Stack Learner | Web Developer**
 
