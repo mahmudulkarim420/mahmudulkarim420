@@ -1,58 +1,168 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-
-
-
-
-# 💫 Hi 👋, I'm Mahmudul Karim Prem
-**🚀 MERN Stack Learner | Web Developer**
-
-I’m Prem — currently learning MERN Stack Web Development from Programming Hero.
-Passionate about building interactive, responsive, and user-friendly web applications.
-Working hard to become a skilled Full-Stack Developer. 🚀
-
-- 🔭 **Currently working on Programming Hero projects
-- 🌱 **Learning MERN Stack Development
-- 👯 **Open to collaborate on GitHub
-- 💬 **Ask me about Frontend Development / React / Tailwind CSS
-- 📫 **Email: mahmudulkarim545@gmail.com
-
-
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div id="header" align="center">
+ <a href ="https://www.linkedin.com/in/webdevmaruff/" target="_blank">
+    <img style="width: 100%; height: auto;" src="https://res.cloudinary.com/dxgnwmfwd/image/upload/v1771613635/git-banner_safy6l.png"/>
+ </a>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# 💻 Tech Stack
-
-| Frontend | Backend | Database | Deployment & Tools |
-|----------|---------|---------|------------------|
-| ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Context API](https://skillicons.dev/icons?i=contextapi) ![Redux](https://skillicons.dev/icons?i=redux) ![React Router](https://skillicons.dev/icons?i=reactrouter) ![React Hook Form](https://skillicons.dev/icons?i=react0hookform) ![Vite](https://skillicons.dev/icons?i=vite) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=expressjs) ![JWT](https://skillicons.dev/icons?i=jwt) ![NPM](https://skillicons.dev/icons?i=npm) ![Nodemon](https://skillicons.dev/icons?i=nodemon) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Firebase](https://skillicons.dev/icons?i=firebase) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://skillicons.dev/icons?i=render) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![Windows Terminal](https://skillicons.dev/icons?i=windowsterminal) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
-
-| Design & UI | Other Tools |
-|------------|-------------|
-| ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) | - |
+<hr>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmudulkarim420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahmudulkarim420&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- <div align="center">
+  <a href="https://app.daily.dev/webdevmaruf"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
+  <a href="https://leetcode.com/maruf42">
+  <img src="https://leetcard.jacoblin.cool/maruf42?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
+  </a>
+</div> -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prem Hassan ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/premi_code) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudulkarim545@gmail.com) 
+<!--
+<br/>
+<div align="center">
+<img style="width: 90%; height: auto;" src="https://user-badge.committers.top/bangladesh/MarufAlAslam.svg"/>
+</div>
+-->
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=36e463&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmudulkarim420&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mahmudulkarim420&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🐼 About Me :
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+As a Lead Web Developer at Bloxley Inc., USA, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the fintech industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
+
+In addition, I previously worked as a Software Developer at Taskco Digital, where I contributed to the development of cutting-edge solutions. My role at Taskco helped refine my skills in building scalable applications and further deepened my expertise in the tech industry.
+
+My passion lies in Fullstack web development, particularly using the MERN (MongoDB, Express.js, React, and Node.js) stack. I find the MERN stack to be versatile and powerful, allowing me to build robust and responsive web applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in web development to deliver the best solutions.
+
+In addition to my full-time roles, I have a thriving freelance career on Fiverr. Over the years, I have had the privilege of working with over 300 clients and completing more than 1,000 projects. This freelance experience has allowed me to diversify my skill set and work on a wide range of web development projects, from simple landing pages to complex e-commerce platforms. It's been a valuable learning experience, and I'm grateful for the opportunity to collaborate with clients from around the world.
+
+I'm always excited about the challenges and opportunities that come with software engineering and web development. Whether it's solving complex coding problems at my full-time job or taking on interesting projects as a freelancer, I am committed to delivering high-quality solutions and constantly improving my skills to stay at the forefront of the field.
+
+
+### 😎 Skillset :
+
+Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `TypeScript` `PHP` `Dart`
+
+CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
+
+PHP Framworks/Libraries: `Laravel`
+
+Javascript Framworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuery`, `Astro`, `Express.js`
+
+Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+
+CMS: `Wordpress`, `Brevo`, `Zendesk`, `Webflow`
+
+Databases: `MongoDB` `Firebase` `Mongoose` `MySQL`
+
+Comfortable:  `CSS Media Query` `Both Flexbox and Grid Systems`
+
+Familiar with: `Redux` `Context API` `Node.js` `React Native`
+
+Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `JadeWits CMS` `Express Generator` `Web Mail` `Trello` `Jira` `MS Teams`
+
+
+<hr>
+
+### 👨‍💼Experiences:
+
+| # | Job Title | Company Name | Start Date | End Date | Location |
+| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
+| 1  | Lead Web Developer  | Bloxley Inc. | February, 2025 | --- | Wilmington, USA |
+| 2  | Top Rated Web Developer  | Fiverr | October, 2020 | --- | Freelance |
+| 3  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | April, 2025 | Texas, USA |
+| 4  | Software Developer  | Taskco Digital | August, 2024 | March, 2025 | Dhaka, Bangladesh |
+| 5  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
+| 6  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | New York, USA |
+| 7  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
+| 8  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
+| 9  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+
+* RWD = Responsive Web Design & Development
+* LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
+
+<hr>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+
+  `FRONTEND`
+  
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" title="nextjs" alt="chatgpt"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
+<img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" title="Remix" alt="Remix"/>&nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+
+
+  `BACKEND`
+  
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
+   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
+
+
+  `TOOLS`
+  
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" title="Mui" alt="Mui"/>&nbsp;
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" title="Nodemon" alt="Nodemon"/>&nbsp;
+  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" title="AntD" alt="AntD"/>&nbsp;
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" title="Chakra UI" alt="Chakra UI"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" alt="C"/>&nbsp;
+
+</div>
+<hr>
+
+<div style="text-align: center;">
+  <a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL" style="text-decoration: none"  target="_blank">
+ <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
+  </a>
+  <a href="https://www.buymeacoffee.com/webdevmaruf" target="_blank" style="text-decoration: none"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" alt="Buy Me A Coffee" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:220px;max-width:80%;height:auto;" ></a>
+</div>
+
+<hr>
+
+### 🔥 My GitHub Stats :
+
+<div align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
+</div>
+
+<hr>
+
+<br>
+<div id="badges" align="center">
+   <a href="https://www.fiverr.com/webdevmaruf" style="text-decoration: none" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+   </a>
+  <a href="https://www.linkedin.com/in/marufalaslam/" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@webdevmaruf" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/marufalaslam/" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
+ 
+   <a href="https://www.instagram.com/captain_potatoo" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
+   </a>
+   <br>
+</div>
