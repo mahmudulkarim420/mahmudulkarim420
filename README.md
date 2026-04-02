@@ -57,7 +57,7 @@ I am passionate about clean code, continuous learning, and building web applicat
 <hr>
 
 <div style="text-align: center;">
-  <a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin:20px auto;width:300px;max-width:80%;height:auto;" alt="Download Resume">
   </a>
   <a href="https://www.buymeacoffee.com/webdevmaruf" target="_blank">
