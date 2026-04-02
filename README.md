@@ -10,7 +10,7 @@
 
 ### 🐼 About Me
 
-I am a Fullstack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I build responsive, scalable, and modern web applications. Alongside my freelance work with 300+ clients, I have professional experience working in dynamic development teams, delivering high-quality software solutions.
+I am a FrontEnd Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I build responsive, scalable, and modern web applications. Alongside my freelance work with 30+ clients, I have professional experience working in dynamic development teams, delivering high-quality software solutions.
 
 I am passionate about clean code, continuous learning, and building web applications that solve real-world problems.
 
@@ -78,10 +78,8 @@ I am passionate about clean code, continuous learning, and building web applicat
 ### 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.fiverr.com/webdevmaruf" target="_blank"><img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/marufalaslam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@webdevmaruf" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/Maruf23350252" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/marufalaslam/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/captain_potatoo" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahmudul-karim-dev/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.facebook.com/prem.hassan.784077" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/prem.mern/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
