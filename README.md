@@ -17,7 +17,7 @@ I am passionate about clean code, continuous learning, and building web applicat
 ### 😎 Skillset
 
 **Programming:** `HTML` `CSS` `JavaScript` `TypeScript`  
-**Frontend:** `React.js` `Next.js`  `Bootstrap` `Tailwind CSS` `Daisy UI` `Framer Motion` `Gsap` `ShadCN` 
+**Frontend:** `React.js` `Next.js`  `Bootstrap` `Tailwind CSS` `Daisy UI` `Framer Motion` `Gsap` `ShadCN`  
 **Backend:** `Node.js` `Express.js` `MongoDB` `Firebase` `MySQL`  
 **Tools & Platforms:** `VS Code` `AntiGravity` `Git/GitHub` `NPM` `Vercel` `Netlify` `Postman` `Figma`  
 
