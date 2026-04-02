@@ -16,10 +16,10 @@ I am passionate about clean code, continuous learning, and building web applicat
 
 ### 😎 Skillset
 
-**Programming:** `HTML` `CSS` `JavaScript` `TypeScript` `PHP` `Dart` `C` `C++`  
-**Frontend:** `React.js` `Next.js` `Remix` `jQuery` `Bootstrap` `Tailwind CSS` `Material UI` `Ant Design` `Chakra UI`  
+**Programming:** `HTML` `CSS` `JavaScript` `TypeScript`  
+**Frontend:** `React.js` `Next.js`  `Bootstrap` `Tailwind CSS` `Daisy UI` `Framer Motion` `Gsap` `ShadCN` 
 **Backend:** `Node.js` `Express.js` `MongoDB` `Firebase` `MySQL`  
-**Tools & Platforms:** `VS Code` `Git/GitHub` `NPM` `Vercel` `Netlify` `Postman` `Figma`  
+**Tools & Platforms:** `VS Code` `AntiGravity` `Git/GitHub` `NPM` `Vercel` `Netlify` `Postman` `Figma`  
 
 <hr>
 
@@ -27,15 +27,7 @@ I am passionate about clean code, continuous learning, and building web applicat
 
 | # | Job Title | Company | Duration | Location |
 |---|-----------|--------|----------|---------|
-| 1 | Lead Web Developer | Bloxley Inc. | Feb 2025 – Present | Wilmington, USA |
-| 2 | Top Rated Web Developer | Fiverr | Oct 2020 – Present | Freelance |
-| 3 | Frontend & Mobile App Developer | Azzin LLC | Sep 2024 – Apr 2025 | Texas, USA |
-| 4 | Software Developer | Taskco Digital | Aug 2024 – Mar 2025 | Dhaka, Bangladesh |
-| 5 | Web Developer | Independent Television | Dec 2023 – Apr 2024 | Dhaka, Bangladesh |
-| 6 | Frontend Developer | SBSA Technologies LTD | Jan 2024 – Apr 2024 | New York, USA |
-| 7 | Software Engineer | Jadroo E-Commerce Ltd. | Apr 2023 – Nov 2023 | Dhaka, Bangladesh |
-| 8 | Software Engineer L1 | CoreXLab Ltd. | Mar 2023 – Apr 2023 | Dhaka, Bangladesh |
-| 9 | Trainer, Responsive Web Design | LEDP | Feb 2020 – May 2022 | Dinajpur, Bangladesh |
+| 1 | FrontEnd Developer | SoftStack Agency. | Dec 2025 – Mar 2026 | Dhaka, Bangladesh |
 
 <hr>
 
