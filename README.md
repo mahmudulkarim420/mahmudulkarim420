@@ -69,9 +69,9 @@ I am passionate about clean code, continuous learning, and building web applicat
 
 ### 🔥 GitHub Stats
 
-<div align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" alt="Github Streak Stats"/>
-</div>
+<!-- <div align="left"> -->
+ <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" alt="Github Streak Stats"/> -->
+<!-- </div> -->
 
 <hr>
 
