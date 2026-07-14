@@ -148,3 +148,162 @@ I love turning ideas into real-world products using modern technologies and writ
 - ✅ Build High Quality SaaS Applications
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ✈️ Voyger
+
+A modern travel booking platform built with a scalable architecture.
+
+### Tech Stack
+
+`Next.js` `TypeScript` `NestJS` `Prisma` `PostgreSQL`
+
+**🔗 Links**
+
+- 🌐 Live Demo
+- 📂 Repository
+
+</td>
+
+<td width="50%">
+
+## 🛠️ FixItNow
+
+A complete home service marketplace with Stripe payment integration.
+
+### Tech Stack
+
+`Express.js` `Prisma` `PostgreSQL` `Stripe`
+
+**🔗 Links**
+
+- 📂 Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Portfolio
+
+My personal portfolio showcasing my skills and projects.
+
+### Tech Stack
+
+`Next.js`
+
+`Tailwind CSS`
+
+`TypeScript`
+
+**🔗 Links**
+
+- 🌐 Live Demo
+
+- 📂 Repository
+
+</td>
+
+<td width="50%">
+
+## 💻 Programming Fighter
+
+An online learning platform with a modern UI.
+
+### Tech Stack
+
+`Next.js`
+
+`React`
+
+`Tailwind CSS`
+
+**🔗 Links**
+
+- 🌐 Live Demo
+
+- 📂 Repository
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudulkarim420&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mahmudulkarim420&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Mahmudul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulkarim420&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mahmudulkarim420&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mahmudul-karim-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories and follow me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
