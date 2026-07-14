@@ -156,13 +156,9 @@ A modern **Full Stack E-Commerce Platform** focused on scalability, performance 
 
 ### ✨ Features
 
-- 🔐 JWT Authentication
-- 🛒 Shopping Cart
-- ❤️ Wishlist
-- 💳 Stripe Payment
-- 📦 Order Management
-- 👨‍💼 Admin Dashboard
-- 📱 Fully Responsive
+- 🛍️ Modern E-Commerce Experience with intuitive shopping flow.
+- 👨‍💼 Powerful Admin Dashboard for product and order management.
+- 💳 Secure Stripe Payment Integration with responsive UI.
 
 ### 🛠️ Tech Stack
 
@@ -190,20 +186,16 @@ A modern **Full Stack E-Commerce Platform** focused on scalability, performance 
 ![Backend](https://img.shields.io/badge/REST%20API-Express-success?style=flat-square)
 
 <p align="center">
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="https://res.cloudinary.com/dvpa14whv/image/upload/v1784054628/Screenshot_2026-07-15_004335_cu6d3p.png" width="100%">
 </p>
 
 A complete **Home Service Marketplace REST API** built as a Programming Hero Level 2 Backend Assignment.
 
 ### ✨ Features
 
-- 🔐 Authentication
-- 👤 Role Based Access
-- 📅 Booking System
-- 💳 Stripe Payment
-- ⭐ Review System
-- 🧾 Validation
-- 📦 REST API
+- 🔐 JWT Authentication with Role-Based Authorization.
+- 📅 Complete Booking & Service Management REST API.
+- 💳 Stripe Payment & Refund Integration with Webhook Support.
 
 ### 🛠️ Tech Stack
 
@@ -237,11 +229,9 @@ Modern developer portfolio showcasing projects, experience and skills.
 
 ### ✨ Features
 
-- Responsive
-- Dark Mode
-- Animations
-- Contact Form
-- SEO Friendly
+- 🎨 Modern UI with smooth animations.
+- 📱 Fully Responsive across all devices.
+- 🚀 Optimized Performance with SEO-friendly architecture.
 
 ### 🛠️ Tech Stack
 
@@ -276,11 +266,10 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 ### ✨ Features
 
-- Landing Page
-- Admin Dashboard
-- Responsive UI
-- Modern Animations
-
+- 🎨 Premium and responsive agency landing pages.
+- 🧩 Reusable UI components for scalable development.
+- ⚡ Optimized frontend for fast performance and user experience.
+- 
 ### 🛠️ Tech Stack
 
 **Frontend:** `Next.js` `React` `TypeScript`
