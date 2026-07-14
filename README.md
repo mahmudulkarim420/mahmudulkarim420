@@ -230,7 +230,7 @@ A complete **Home Service Marketplace REST API** built as a Programming Hero Lev
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
 <p align="center">
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="https://res.cloudinary.com/dvpa14whv/image/upload/v1784054283/Screenshot_2026-07-15_003720_chdnm9.png" width="100%">
 </p>
 
 Modern developer portfolio showcasing projects, experience and skills.
@@ -269,7 +269,7 @@ Modern developer portfolio showcasing projects, experience and skills.
 ![Role](https://img.shields.io/badge/Role-Frontend%20Developer-orange?style=flat-square)
 
 <p align="center">
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="https://res.cloudinary.com/dvpa14whv/image/upload/v1783086190/portfolio/projects/project-cmr4zh0zw004n1sdz50aya8ap-1783086190093.png" width="100%">
 </p>
 
 A modern agency website developed during my Frontend Developer Internship at SoftStack Agency.
