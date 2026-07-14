@@ -227,58 +227,64 @@ An online learning platform with a modern UI.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudulkarim420&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudulkarim420&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&layout=compact&theme=github_dark&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=mahmudulkarim420&theme=github-dark-blue&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahmudulkarim420&theme=tokyonight&hide_border=true"/>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulkarim420&theme=github-dark&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Mahmudul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulkarim420&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=mahmudulkarim420&theme=tokyonight&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=mahmudulkarim420&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mahmudul-karim-dev/">
+<a href="https://www.linkedin.com/in/mahmudul-karim-dev/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mahmudulkarim545@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahmudulkarim420">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -287,10 +293,12 @@ An online learning platform with a modern UI.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories and follow me.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=36E463&center=true&vCenter=true&width=500&lines=Happy+Coding!+🚀;Thanks+for+visiting+my+profile!;Let's+Build+Something+Awesome!"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c853,100:00e676&section=footer"/>
 
 </div>
