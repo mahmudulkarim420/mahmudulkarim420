@@ -14,7 +14,7 @@ Building scalable web applications with **Next.js**, **NestJS**, **Prisma** & **
 
 <p>
 
-<a href="https://www.linkedin.com/in/mahmudul-karim-dev">
+<a href="https://www.linkedin.com/in/mahmudul-karim-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -50,9 +50,9 @@ Building scalable web applications with **Next.js**, **NestJS**, **Prisma** & **
 
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, NestJS, Prisma and PostgreSQL**
 
-- 🌐 Portfolio: **your-portfolio-link**
+- 🌐 Portfolio: **https://mahmudul-karim.vercel.app/**
 
-- 📄 Resume: **your-resume-link**
+- 📄 Resume: **https://drive.google.com/file/d/1DcUxr_An4mZeb9nIjCupbzEh3GymCxYH/view?usp=drive_link**
 
 - 📧 Email: **mahmudulkarim545@gmail.com**
 
