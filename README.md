@@ -343,7 +343,7 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://mahmudul-karim.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -359,7 +359,6 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=36E463&center=true&vCenter=true&width=500&lines=Happy+Coding!+🚀;Thanks+for+visiting+my+profile!;Let's+Build+Something+Awesome!"/>
 
 <br>
 
