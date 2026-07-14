@@ -166,29 +166,11 @@ A modern **Full Stack E-Commerce Platform** focused on scalability, performance 
 
 ### 🛠️ Tech Stack
 
-`Next.js`
+**Frontend:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn UI`
 
-`React`
+**Backend:** `NestJS` `Prisma` `PostgreSQL`
 
-`TypeScript`
-
-`Tailwind CSS`
-
-`Shadcn UI`
-
-`TanStack Query`
-
-`NestJS`
-
-`Prisma`
-
-`PostgreSQL`
-
-`JWT`
-
-`Cloudinary`
-
-`Stripe`
+**Tools:** `TanStack Query` `JWT` `Cloudinary` `Stripe`
 
 ### 🔗 Links
 
@@ -225,23 +207,11 @@ A complete **Home Service Marketplace REST API** built as a Programming Hero Lev
 
 ### 🛠️ Tech Stack
 
-`Node.js`
+**Backend:** `Node.js` `Express.js` `TypeScript`
 
-`Express`
+**Database:** `PostgreSQL` `Prisma`
 
-`TypeScript`
-
-`Prisma`
-
-`PostgreSQL`
-
-`Stripe`
-
-`JWT`
-
-`Zod`
-
-`Swagger`
+**Tools:** `JWT` `Stripe` `Zod` `Swagger`
 
 ### 🔗 Links
 
@@ -275,17 +245,11 @@ Modern developer portfolio showcasing projects, experience and skills.
 
 ### 🛠️ Tech Stack
 
-`Next.js`
+**Frontend:** `Next.js` `React` `TypeScript`
 
-`React`
+**Styling:** `Tailwind CSS` `Framer Motion`
 
-`TypeScript`
-
-`Tailwind CSS`
-
-`Framer Motion`
-
-`EmailJS`
+**Tools:** `EmailJS` `Vercel`
 
 ### 🔗 Links
 
@@ -319,17 +283,11 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 ### 🛠️ Tech Stack
 
-`Next.js`
+**Frontend:** `Next.js` `React` `TypeScript`
 
-`React`
+**Styling:** `Tailwind CSS`
 
-`TypeScript`
-
-`Tailwind CSS`
-
-`Axios`
-
-`React Hook Form`
+**Tools:** `Axios` `React Hook Form`
 
 ### 🔗 Links
 
