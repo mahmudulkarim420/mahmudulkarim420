@@ -291,26 +291,6 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 </table>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudulkarim420&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&layout=compact&theme=github_dark&hide_border=true&border_radius=12"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=mahmudulkarim420&theme=github-dark-blue&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
 ---
 
 # 📊 GitHub Insights
@@ -343,15 +323,6 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahmudulkarim420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
