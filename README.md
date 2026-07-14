@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/dvpa14whv/image/upload/v1774984200/Gemini_Generated_Image_vexigtvexigtvexi_tlz5vf.png" width="100%"/>
+<img src="https://res.cloudinary.com/dvpa14whv/image/upload/v1784057078/ChatGPT_Image_Jul_15_2026_01_24_05_AM_xgiwkq.png" width="100%"/>
 
 # 👋 Hi, I'm Mahmudul Karim (Prem)
 
