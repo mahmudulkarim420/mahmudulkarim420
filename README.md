@@ -34,42 +34,29 @@ Building scalable web applications with **Next.js**, **NestJS**, **Prisma** & **
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a passionate **Full Stack Developer** from **Bangladesh** who enjoys building scalable, modern and user-friendly web applications.
+- 👋 Hi, I'm **Mahmudul Karim (Prem)**
 
-I love turning ideas into real-world products using modern technologies and writing clean, maintainable code.
+- 🚀 Full Stack Developer from **Bangladesh** passionate about building scalable and modern web applications.
 
-### 🚀 Currently Working On
+- 💻 Frontend: **React.js, Next.js, TypeScript, Tailwind CSS, Shadcn UI**
 
-- ✈️ Voyger (Travel Booking Platform)
-- 🛠️ FixItNow (Service Marketplace)
-- 🌐 Personal Portfolio v2
+- ⚙️ Backend: **Node.js, Express.js, NestJS, PostgreSQL, Prisma, JWT, Stripe**
 
-### 🌱 Currently Learning
+- 🌱 Currently exploring **Docker, AWS, CI/CD and System Design**
 
-- Docker
-- AWS
-- System Design
-- CI/CD
+- 🛠️ Currently building **Voyger**, **FixItNow** and **Portfolio v2**
 
-### 💬 Ask Me About
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, NestJS, Prisma and PostgreSQL**
 
-- React
-- Next.js
-- TypeScript
-- Node.js
-- Express.js
-- NestJS
-- Prisma
-- PostgreSQL
+- 🌐 Portfolio: **your-portfolio-link**
 
-### ⚡ Fun Facts
+- 📄 Resume: **your-resume-link**
 
-- 💻 I love building beautiful UIs.
-- 🚀 Always learning something new.
-- ☕ Coffee + Music = Productivity.
----
+- 📧 Email: **mahmudulkarim545@gmail.com**
+
+- ⚡ Fun Fact: **Clean Code • Coffee • Music • Continuous Learning ☕**
 
 # 🛠️ Tech Stack
 
