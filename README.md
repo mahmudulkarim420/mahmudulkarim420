@@ -143,7 +143,7 @@ Building scalable web applications with **Next.js**, **NestJS**, **Prisma** & **
 
 ## ✈️ Voyger
 
-A modern travel booking platform built with a scalable architecture.
+A modern clothing e-commerce website built with a scalable architecture.
 
 ### Tech Stack
 
@@ -151,8 +151,9 @@ A modern travel booking platform built with a scalable architecture.
 
 **🔗 Links**
 
-- 🌐 Live Demo
-- 📂 Repository
+- 🌐 [Live Demo](https://voyger-frontend.vercel.app/)
+- 📂 [Frontend Repository](https://github.com/mahmudulkarim420/Voyger-Frontend.git)
+- 📂 [Backend Repository](https://github.com/mahmudulkarim420/Voyger-Backend.git)
 
 </td>
 
