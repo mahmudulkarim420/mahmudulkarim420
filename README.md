@@ -69,3 +69,82 @@ I love turning ideas into real-world products using modern technologies and writ
 - 💻 I love building beautiful UIs.
 - 🚀 Always learning something new.
 - ☕ Coffee + Music = Productivity.
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
+# 💼 Experience
+
+| Position | Company | Duration | Location |
+|-----------|----------|----------|----------|
+| **Frontend Developer Intern** | **SoftStack Agency** | **Dec 2025 – Mar 2026** | Dhaka, Bangladesh |
+
+### 📌 Responsibilities
+
+- 🚀 Developed responsive and modern web applications using **React** & **Next.js**
+- 🎨 Built reusable UI components with **Tailwind CSS**
+- 🔗 Integrated REST APIs with frontend applications
+- 🤝 Collaborated with backend developers using Git & GitHub
+- ⚡ Focused on performance optimization and clean code practices
+
+---
+
+# 🌱 Currently Exploring
+
+- 🐳 Docker
+- ☁️ AWS
+- 🏗️ System Design
+- 🔄 CI/CD
+- ⚡ Advanced Backend Architecture
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Professional Full Stack Developer
+- ✅ Master NestJS & Prisma
+- ✅ Learn Docker & AWS
+- ✅ Contribute to Open Source
+- ✅ Build High Quality SaaS Applications
+
+---
