@@ -311,21 +311,43 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 ---
 
-## 📈 Contribution Graph
+---
+
+# 📊 GitHub Insights
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulkarim420&theme=github-dark&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudulkarim420&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mahmudulkarim420&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahmudulkarim420&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudulkarim420&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahmudulkarim420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
 
 </div>
 
