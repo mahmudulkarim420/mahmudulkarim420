@@ -137,39 +137,115 @@ Building scalable web applications with **Next.js**, **NestJS**, **Prisma** & **
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ✈️ Voyger
 
-A modern clothing e-commerce website built with a scalable architecture.
+![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=flat-square)
 
-### Tech Stack
+<p align="center">
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+</p>
 
-`Next.js` `TypeScript` `NestJS` `Prisma` `PostgreSQL`
+A modern **Full Stack E-Commerce Platform** focused on scalability, performance and a premium shopping experience.
 
-**🔗 Links**
+### ✨ Features
 
-- 🌐 [Live Demo](https://voyger-frontend.vercel.app/)
-- 📂 [Frontend Repository](https://github.com/mahmudulkarim420/Voyger-Frontend.git)
-- 📂 [Backend Repository](https://github.com/mahmudulkarim420/Voyger-Backend.git)
+- 🔐 JWT Authentication
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 💳 Stripe Payment
+- 📦 Order Management
+- 👨‍💼 Admin Dashboard
+- 📱 Fully Responsive
+
+### 🛠️ Tech Stack
+
+`Next.js`
+
+`React`
+
+`TypeScript`
+
+`Tailwind CSS`
+
+`Shadcn UI`
+
+`TanStack Query`
+
+`NestJS`
+
+`Prisma`
+
+`PostgreSQL`
+
+`JWT`
+
+`Cloudinary`
+
+`Stripe`
+
+### 🔗 Links
+
+🌐 Live Demo
+
+📂 Frontend
+
+📂 Backend
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛠️ FixItNow
 
-A complete home service marketplace with Stripe payment integration.
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+![Backend](https://img.shields.io/badge/REST%20API-Express-success?style=flat-square)
 
-### Tech Stack
+<p align="center">
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+</p>
 
-`Express.js` `Prisma` `PostgreSQL` `Stripe`
+A complete **Home Service Marketplace REST API** built as a Programming Hero Level 2 Backend Assignment.
 
-**🔗 Links**
+### ✨ Features
 
-- 📂 Repository
+- 🔐 Authentication
+- 👤 Role Based Access
+- 📅 Booking System
+- 💳 Stripe Payment
+- ⭐ Review System
+- 🧾 Validation
+- 📦 REST API
+
+### 🛠️ Tech Stack
+
+`Node.js`
+
+`Express`
+
+`TypeScript`
+
+`Prisma`
+
+`PostgreSQL`
+
+`Stripe`
+
+`JWT`
+
+`Zod`
+
+`Swagger`
+
+### 🔗 Links
+
+📂 Backend Repository
 
 </td>
 
@@ -177,55 +253,97 @@ A complete home service marketplace with Stripe payment integration.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌐 Portfolio
 
-My personal portfolio showcasing my skills and projects.
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-### Tech Stack
+<p align="center">
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+</p>
 
-`Next.js`
+Modern developer portfolio showcasing projects, experience and skills.
 
-`Tailwind CSS`
+### ✨ Features
 
-`TypeScript`
+- Responsive
+- Dark Mode
+- Animations
+- Contact Form
+- SEO Friendly
 
-**🔗 Links**
-
-- 🌐 Live Demo
-
-- 📂 Repository
-
-</td>
-
-<td width="50%">
-
-## 💻 Programming Fighter
-
-An online learning platform with a modern UI.
-
-### Tech Stack
+### 🛠️ Tech Stack
 
 `Next.js`
 
 `React`
 
+`TypeScript`
+
 `Tailwind CSS`
 
-**🔗 Links**
+`Framer Motion`
 
-- 🌐 Live Demo
+`EmailJS`
 
-- 📂 Repository
+### 🔗 Links
+
+🌐 Live Demo
+
+📂 Frontend
+
+📂 Backend
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💼 SoftStack Agency
+
+![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Frontend%20Developer-orange?style=flat-square)
+
+<p align="center">
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+</p>
+
+A modern agency website developed during my Frontend Developer Internship at SoftStack Agency.
+
+### ✨ Features
+
+- Landing Page
+- Admin Dashboard
+- Responsive UI
+- Modern Animations
+
+### 🛠️ Tech Stack
+
+`Next.js`
+
+`React`
+
+`TypeScript`
+
+`Tailwind CSS`
+
+`Axios`
+
+`React Hook Form`
+
+### 🔗 Links
+
+🌐 Live Demo
+
+📂 Frontend
+
+📂 Backend
 
 </td>
 
 </tr>
 
 </table>
-
----
 
 ## 📊 GitHub Statistics
 
