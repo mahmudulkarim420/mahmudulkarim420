@@ -174,11 +174,11 @@ A modern **Full Stack E-Commerce Platform** focused on scalability, performance 
 
 ### 🔗 Links
 
-🌐 Live Demo
-
-📂 Frontend
-
-📂 Backend
+- 🌐 [Live Demo](https://voyger-frontend.vercel.app/)
+  
+- 💻 [Frontend](https://github.com/mahmudulkarim420/Voyger-Frontend)
+  
+- ⚙️ [Backend](https://github.com/mahmudulkarim420/Voyger-Backend)
 
 </td>
 
@@ -215,7 +215,7 @@ A complete **Home Service Marketplace REST API** built as a Programming Hero Lev
 
 ### 🔗 Links
 
-📂 Backend Repository
+- 💻 [Backend](https://github.com/mahmudulkarim420/FixItNow-Backend)
 
 </td>
 
@@ -253,11 +253,11 @@ Modern developer portfolio showcasing projects, experience and skills.
 
 ### 🔗 Links
 
-🌐 Live Demo
-
-📂 Frontend
-
-📂 Backend
+- 🌐 [Live Demo](https://mahmudul-karim.vercel.app/)
+  
+- 💻 [Frontend](https://github.com/mahmudulkarim420/Portfolio-Frontend)
+  
+- ⚙️ [Backend](https://github.com/mahmudulkarim420/Portfolio-Backend)
 
 </td>
 
@@ -291,12 +291,11 @@ A modern agency website developed during my Frontend Developer Internship at Sof
 
 ### 🔗 Links
 
-🌐 Live Demo
-
-📂 Frontend
-
-📂 Backend
-
+- 🌐 [Live Demo](https://softstack-agency-frontend-taupe.vercel.app/)
+  
+- 💻 [Frontend](https://github.com/sbsakib8/agensy-frontend)
+  
+- ⚙️ [Backend](https://github.com/sbsakib8/agensy-backend)
 </td>
 
 </tr>
