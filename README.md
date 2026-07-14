@@ -149,7 +149,7 @@ Building scalable web applications with **Next.js**, **NestJS**, **Prisma** & **
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=flat-square)
 
 <p align="center">
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="https://res.cloudinary.com/dvpa14whv/image/upload/v1783015382/portfolio/projects/project-cmr3t7hbp00002c56aq363ygx-1783015382565.png" width="100%">
 </p>
 
 A modern **Full Stack E-Commerce Platform** focused on scalability, performance and a premium shopping experience.
